@@ -1,0 +1,25 @@
+.moda th{
+    color: #ffffff;
+    background-color: #BB86FC;
+    padding: 10px;
+    font-size: 25px;
+}
+.moda td{
+    color: #ffffff;
+    background-color: #424250;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.casa th{
+    color: #ffffff;
+    background-color: #00C4B4;
+    padding: 10px;
+    font-size: 25px;
+}
+.casa td{
+    color: #ffffff;
+    background-color: #424250;
+    padding: 10px;
+    font-size: 25px;
+}
